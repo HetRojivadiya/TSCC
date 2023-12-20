@@ -146,7 +146,9 @@ a, button {
 
 /* Media query for smaller screens */
 @media (max-width: 768px) {
+
     .quote {
+	margin-top:80px;
         width: 90%;
         max-width: 100%;
         text-align: center; /* Center align for smaller screens */
